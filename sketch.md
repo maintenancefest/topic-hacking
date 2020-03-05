@@ -1,14 +1,14 @@
 # 🔄 Topic Hacking 
 > Rethinking open collaboration, research and publishing
 
-## Competitive Landscape
+## 1. Competitive Landscape
 ### The [attention economy](https://en.wikipedia.org/wiki/Attention_economy)
 “In an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention.”
 ― [Herbert Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon)
 
 *Attention is a scarcity, wherever it flows, money (impact, influence, power) will follow*
 
-## Economic Risks
+## 2. Economic Risks
 ### [Neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism)
 * [Lemon socialism](https://en.wikipedia.org/wiki/Lemon_socialism) - privatizing profits, socializing losses
 * [Too big to fail](https://en.wikipedia.org/wiki/Too_big_to_fail)
@@ -18,25 +18,25 @@
 
 *Central bankers have joined the spivs and speculators at the roulette table*
 
-## Lifelong Learning
+## 3. Lifelong Learning
 “In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.”
 ― [Eric Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer)
 
 *[Lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning) needs to become the norm not the exception*
 
-## Topic Hacking
+## 4. Topic Hacking
 ### Curiosity is a fundamental human trait
 
 Borrows elements from:
 * [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
 * [Open Source](https://en.wikipedia.org/wiki/Open_source)
 
-A flexible approach to lifelong learning, that is both inclusive and scalable
+*A flexible approach to lifelong learning, that is both inclusive and scalable*
 
 Relevant and useful in the changing reality of our world
 [VUCA](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity) (Volatility, Uncertainty, Complexity, and Ambiguity)
 
-## Hacker Culture
+## 5. Hacker Culture
 * Creating software and sharing it with each other
 * Placing a high value on **freedom of inquiry**
 * Hostility to secrecy
@@ -48,7 +48,7 @@ Relevant and useful in the changing reality of our world
 
 Convergent Thinking ↔ Divergent Thinking
 
-## Topic Hacking 
+## 6. Topic Hacking 
 ### Activities and outputs
 * [Perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta) - knowledge debt
 * [Process tracing](https://en.wikipedia.org/wiki/Process_tracing) - thinking aloud, change logs, issue trackers
@@ -61,7 +61,7 @@ Convergent Thinking ↔ Divergent Thinking
 * ...
 * **[LIVING DOCUMENTS](https://en.wikipedia.org/wiki/Living_document)**
 
-## Why get involved in Topic Hacking?
+## 7. Why get involved in Topic Hacking?
 ### Similar motivations apply to those in the open-source software movement:
 * Altruism
 * Community sharing and improvement
@@ -70,23 +70,23 @@ Convergent Thinking ↔ Divergent Thinking
 * ...
 * Learning & unlearning
 
-## Topic Hacking
-*Keep it simple*
+## 8. Topic Hacking
 ### Use the loops of learning as scaffolding
 
-**Single-loop learning** - Following the rules
+**Single-loop learning** - Following the rules  
 *Are we doing things right?*
 
-**Double-loop learning** - Changing the rules
+**Double-loop learning** - Changing the rules  
 *Are we doing the right things?*
 
-**Triple-loop learning** - Learning about learning
+**Triple-loop learning** - Learning about learning  
 *How can we be sure what’s right is right?*
 
+## 10. Topic Hacking
+Nurturing and sharing reusable<sup>1</sup> topic hacks for others to adapt, remix and explore.
 
+*Effectively, we become gardeners who foster learning by growing sustainable ecosystems of topic hackers*
 
+<sup>1</sup>[Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) by default
 
-
-
-
-
+[@jhngrant](https://twitter.com/jhngrant) Jan 29, 2020
